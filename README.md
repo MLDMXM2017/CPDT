@@ -1,4 +1,4 @@
-## NEDT
+## CPDT
 The source code of paper, "CPDT: A Novel Cluster-based Paired Decision Tree for Identifying Biomedical Entity Interactions".
 
 ## Requirements
