@@ -16,7 +16,7 @@ class PairedDecisionTree:
                  file_name='Unknown', exp_id=-1, random_state=42,
                  log_dir='TreeInfo', pic_dir='Picture',
                  criterion='gini', splitter='best', feature_select='sequence', max_features='all',
-                 max_depth=None, min_samples_split=2, min_samples_leaf=1, minor_class_num=1, min_impurity=0.1):
+                 max_depth=None, min_samples_split=2, min_samples_leaf=1, minor_class_num=1, min_impurity=0.0):
 
         self.file_name = file_name
         self.exp_id = exp_id
